@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Novo Servisso</title>
+</head>
+
+<body>
+    <div class="container" class="card01" >
+        <label for="telefone">Telefone:</label>
+        <input type="tel" id="telefone" name="telefone" required>
+
+        <label for="data">Data de Agendamento:</label>
+        <input type="date" id="data" name="data" required>
+
+        <label for="servico">Serviço:</label>
+        <select id="servico" name="servico">
+            <option value="lavagem_simples">Lavagem Simples</option>
+            <option value="lavagem_completa">Lavagem Completa</option>
+            <option value="polimento">Polimento</option>
+        </select>
+        <button type="submit">Agendar</button>
+        
+        
+    </div>
+    <a class="voltar" href="#" onclick="history.go(-1); return false;">Voltar</a>
+</body>
+
+</html>
