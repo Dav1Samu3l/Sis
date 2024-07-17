@@ -7,6 +7,10 @@
 
 <body class="c16 doc-content">
     <div>
+
+![image](https://github.com/user-attachments/assets/eab5fdbb-0ce8-4870-ac59-45a64441a96d)
+</div>
+    <div>
         <p class="c12"><img></p>
     </div>
     <p class="c12"><span
