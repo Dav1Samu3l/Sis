@@ -320,6 +320,10 @@
     </div>
                   <h3>Diagramas de:</h3> 
                   <div>
+                  <p>Caso de uso</p>
+
+![image](https://github.com/user-attachments/assets/c4889d52-a66f-4877-8ca5-b37bd6028f7c)
+
 
   <p>Classe</p>
   
