@@ -18,9 +18,7 @@
                 alt="" src="images/image6.png"
                 style="width: 350.00px; height: 94.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);"
                 title=""></span></p>
-    <p class="c12"><span class="c23 c25">CTDS 2023/2</span></p>
-    <p class="c12"><span class="c23">Aluno: Davi samuel da silva</span>
-        <hr>
+ <hr>
     </p>
     <p class="c2"><span class="c25 c23"></span></p>
     <p class="c2"><span class="c25 c23"></span></p>
