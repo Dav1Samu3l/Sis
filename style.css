@@ -21,10 +21,13 @@ body , container {
     backdrop-filter: blur(5px);
     
 }
-.card01.image{
-    width: 10;
-
+.image{
+   width: 50%;
+   height: 50%;
+   border-radius: 20%;
+   margin-bottom: 90px;
 }
+
 
 h1 {
     text-align: center;
